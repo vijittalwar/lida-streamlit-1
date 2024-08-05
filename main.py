@@ -10,8 +10,9 @@ os.makedirs("data", exist_ok=True)
 
 st.set_page_config(
     page_title="LIDA: Automatic Generation of Visualizations and Infographics",
-    page_icon="📊",
+    page_icon="📊",    
 )
+
 
 st.write("# LIDA: Automatic Generation of Visualizations and Infographics using Large Language Models 📊")
 
